@@ -8,4 +8,4 @@ Finance app building with JS, CSS and HTML. This is a Front-end project from Roc
 
 ### (Em desenvolvimento / Under development)
 
-![dev finance_temp](https://user-images.githubusercontent.com/54003876/104952707-c08dec80-59a3-11eb-9f33-0f116033f65a.png)
+![devfinances_main](https://user-images.githubusercontent.com/54003876/106128378-1d289e80-613e-11eb-9ac3-c76a885a1869.png)
