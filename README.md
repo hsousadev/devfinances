@@ -1,9 +1,11 @@
 # devfinances
 
-[BR 🇧🇷] <br>
+### App finished / Aplicação finalizada <img src="https://www.flaticon.com/svg/vstatic/svg/1665/1665777.svg?token=exp=1612956444~hmac=564d52470809e62cb59b5e1a5caaba7e" alt="loading" width="25" height="25" style="margin-right: 20"/>
+
+#### [BR 🇧🇷] <br>
 Aplicação financeira desenvolvida com JavaScript, CSS and HTML. Este é um projeto Front-end da Maratona Discover da Rocketseat. 
 
-[ENG 🇺🇸] <br>
+#### [ENG 🇺🇸] <br>
 Finance app building with JS, CSS and HTML. This is a Front-end project from Rocketseat Discover Marathon. 
 
 #### Visualização final do app / Final app view
