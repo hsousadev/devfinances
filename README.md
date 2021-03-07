@@ -1,6 +1,6 @@
 # devfinances
 
-### App finished / Aplicação finalizada <img src="https://www.flaticon.com/svg/vstatic/svg/1665/1665777.svg?token=exp=1612956444~hmac=564d52470809e62cb59b5e1a5caaba7e" alt="loading" width="25" height="25" style="margin-right: 20"/>
+### App finished / Aplicação finalizada ✔️
 
 #### [BR 🇧🇷] <br>
 Aplicação financeira desenvolvida com JavaScript, CSS and HTML. Este é um projeto Front-end da Maratona Discover da Rocketseat. 
